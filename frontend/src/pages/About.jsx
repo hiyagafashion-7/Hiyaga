@@ -4,7 +4,6 @@ import { assets } from "../assets/frontend_assets/assets";
 import { Link } from "react-router-dom";
 import AOS from "aos";
 import "aos/dist/aos.css";
-import React from "react";
 
 const About = () => {
   useEffect(() => {
@@ -16,7 +15,6 @@ const About = () => {
     <div className=" overflow-x-hidden">
       <div className="text-2xl text-center pt-8 border-t">
         <Title text1={"About"} text2={"Us"} />
-        <p>njcb</p>
       </div>
 
       <div className="my-10 flex flex-col md:flex-row gap-16">

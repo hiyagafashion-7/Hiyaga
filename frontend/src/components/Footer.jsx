@@ -13,8 +13,7 @@ const Footer = () => {
             </div>
 
             <p className="mt-6 max-w-md text-center leading-relaxed text-white sm:max-w-xs sm:text-left">
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Incidunt
-              consequuntur amet culpa cum itaque neque.
+            Step into Style & Comfort - Trendy Footwear for Every Walk of Life!
             </p>
 
             <ul className="mt-5 flex gap-6 justify-center md:justify-start md:gap-6">
@@ -105,7 +104,7 @@ const Footer = () => {
               <ul className="mt-4 space-y-4 text-sm grid place-items-center md:place-items-start">
                 <Link
                   className="text-white transition hover:text-white/75 flex items-center "
-                  to="https://www.flipkart.com/hiyaga-women-flats/p/itmfa63f86c800df?pid=SNDH5Z8NYMRWE55R&lid=LSTSNDH5Z8NYMRWE55RAAY5AH&marketplace=FLIPKART&cmpid=content_sandal_8965229628_gmc"
+                  to="https://dl.flipkart.com/s/b3iDuRNNNN"
                 >
                   <div className=" w-8 h-8 flex items-center justify-center ">
                     <img src={assets.flipkart} alt="" className="w-8 p-1" />
@@ -115,7 +114,7 @@ const Footer = () => {
 
                 <Link
                   className="text-white transition hover:text-white/75 flex items-center "
-                  to="https://www.amazon.in/HIYAGA-Striped-Comfortable-Decorative-Everyday/dp/B0DKDDRND3?th=1&psc=1"
+                  to="https://www.amazon.in/stores/page/89753C68-DA78-4308-8226-BECFB4B8CFCC?ref_=cm_sw_r_apann_ast_store_7NXSMSZM39DG4DCNACYB&dplnk=Y&dplnkId=2700b276-d180-4e26-8fae-f91994cd9b20"
                 >
                   <div className=" w-8 h-8 flex items-center justify-center ">
                     <img src={assets.amazon} alt="" className="w-8 p-1" />
@@ -125,7 +124,7 @@ const Footer = () => {
 
                 <Link
                   className="text-white transition hover:text-white/75 flex items-center "
-                  to="https://www.meesho.com/hiyaga-sandal-and-shoes-for-womenn-and-girls-pack-of-2/p/7k55l8"
+                  to="https://dl.flipkart.com/s/b3iDuRNNNN"
                 >
                   <div className=" w-8 h-8 flex items-center justify-center ">
                     <img src={assets.meesho} alt="" className="w-8 p-1" />

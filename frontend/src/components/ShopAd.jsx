@@ -24,20 +24,20 @@ const ShopAd = () => {
               />
             </div>
             <div className="grid grid-cols-4 gap-5 md:gap-2 mt-2">
-              <Link to={"https://www.flipkart.com/hiyaga-women-flats/p/itmfa63f86c800df?pid=SNDH5Z8NYMRWE55R&lid=LSTSNDH5Z8NYMRWE55RAAY5AH&marketplace=FLIPKART&cmpid=content_sandal_8965229628_gmc"} className=" rounded-full flex items-center justify-center w-8 h-8 md:w-12 md:h-12 shadow-[0_3px_10px_rgb(0,0,0,0.2)] ">
+              <Link to={"https://dl.flipkart.com/s/b3iDuRNNNN"} className=" rounded-full flex items-center justify-center w-8 h-8 md:w-12 md:h-12 shadow-[0_3px_10px_rgb(0,0,0,0.2)] ">
                 <div className="w-6 h-6  md:w-10 md:h-10 flex items-center justify-center rounded-full">
                   <img src={assets.flipkart} alt="" className="w-6" />
                 </div>
                 {/* <p>Flipkart</p> */}
               </Link>
 
-              <Link to={"https://www.amazon.in/stores/Women%E2%80%99sFootwearCollection/page/89753C68-DA78-4308-8226-BECFB4B8CFCC?ref_=ast_bln"} className=" rounded-full flex items-center justify-center w-8 h-8 md:w-12 md:h-12  shadow-[0_3px_10px_rgb(0,0,0,0.2)]">
+              <Link to={"https://www.amazon.in/stores/page/89753C68-DA78-4308-8226-BECFB4B8CFCC?ref_=cm_sw_r_apann_ast_store_7NXSMSZM39DG4DCNACYB&dplnk=Y&dplnkId=2700b276-d180-4e26-8fae-f91994cd9b20"} className=" rounded-full flex items-center justify-center w-8 h-8 md:w-12 md:h-12  shadow-[0_3px_10px_rgb(0,0,0,0.2)]">
                 <div className="w-6 h-6  md:w-10 md:h-10 flex items-center justify-center rounded-full">
                   <img src={assets.amazon} alt="" className="w-6" />
                 </div>
                 {/* <p>Amazon</p> */}
               </Link>
-              <Link to={"https://www.meesho.com/knn1d?ms=2"} className=" rounded-full flex items-center justify-center w-8 h-8 md:w-12 md:h-12 shadow-[0_3px_10px_rgb(0,0,0,0.2)] ">
+              <Link to={" https://www.meesho.com/knn1d?_ms=3.0.1"} className=" rounded-full flex items-center justify-center w-8 h-8 md:w-12 md:h-12 shadow-[0_3px_10px_rgb(0,0,0,0.2)] ">
                 <div className="w-6 h-6  md:w-10 md:h-10 flex items-center justify-center rounded-full">
                   <img src={assets.meesho} alt="" className="w-6" />
                 </div>
